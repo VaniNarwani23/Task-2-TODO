@@ -255,11 +255,11 @@ select {
     }
 
     .todo-button {
-        
+        margin-top: 4px;
         align-items: center;
     }
     .todo-container {
-    
+    margin-top: 4px;
     align-items: center;
 
 }
