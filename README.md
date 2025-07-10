@@ -31,5 +31,5 @@ Whether you're submitting internship projects or waking up at 5 A.M. 🌅, this 
 
 1. **Clone** the repo:  
    ```bash
-   git clone https://github.com/your-username/cute-todo-list.git
-   cd cute-todo-list
+   https://github.com/VaniNarwani23/Task-2-TODO
+   cd Task-2-TODO
