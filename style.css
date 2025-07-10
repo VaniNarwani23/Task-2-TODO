@@ -230,7 +230,7 @@ select {
     outline: none;
     
 }
-/* Responsive styles */
+
 @media screen and (max-width: 768px) {
     h1 {
         font-size: 2rem;
