@@ -227,3 +227,58 @@ select {
     outline: none;
     
 }
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+        margin-top: 20px;
+    }
+
+    form {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    form input,
+    form button {
+        width: 90%;
+        font-size: 1.2rem;
+    }
+
+    .fa-plus-circle {
+        margin: 0;
+    }
+
+    .select {
+        width: 90%;
+        margin: 1rem auto;
+    }
+
+    .todo-list {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .todo {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 1rem;
+    }
+
+    .todo li {
+        font-size: 1.2rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .complete-btn,
+    .trash-btn,
+    .edit-btn {
+        width: 40px;
+        height: 40px;
+        font-size: 1.2rem;
+        margin: 0.2rem 0.2rem 0 0;
+    }
+
+    .edit-input {
+        font-size: 1.2rem;
+    }
+}
