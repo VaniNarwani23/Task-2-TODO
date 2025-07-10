@@ -17,21 +17,7 @@ Whether you're submitting internship projects or waking up at 5 A.M. 🌅, this 
 
 ---
 
-## 🌸 Preview
 
-### ➕ Add a Task  
-![Add Task](./assets/add-task.png)
-
-### ✅ Completed Tasks  
-![Completed Task](./assets/completed-task.png)
-
-### 📋 All Tasks Together  
-![All Tasks](./assets/all-tasks.png)
-
-> _These screenshots make everything look so organized and aesthetic, right? 🍥_  
-> _Place them in an `assets/` folder to display properly!_
-
----
 
 ## 🧁 Tech Stack
 
